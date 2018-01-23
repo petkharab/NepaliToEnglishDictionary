@@ -1,8 +1,16 @@
 # NepaliToEnglishDictionary
 ---
 ***This app will convert Nepali to English.***
-* Users can type Nepali word and it will be converted to English
-* Users can also search the related things about the word in wikipedia
+This app has following features.
+
+1) Two ways - English to Nepali Dictionary and Nepali to English Dictionary
+2) Offline support for word translation (No internet connection required)
+3) Online word translation 
+4) Add words to favorite 
+5) Speak out word for pronunciation 
+6) Copy words to clipboard for sharing
+7) Take Word Quiz 
+8) Learn new Words
 ---
 **How to run ?**
 * Clone the reposistory and run it using android studio
