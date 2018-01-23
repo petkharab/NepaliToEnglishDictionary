@@ -21,6 +21,12 @@ link -> https://play.google.com/store/apps/details?id=org.makkhay.makkhayDic
 
 Here's a walkthrough of my app:
 
+* Demo Video 1 of 3
+
+<img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/first.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
+
+
+* Demo Video 3 of 3
 <img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/third.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
 
 GIF created with [LICECAP].
