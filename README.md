@@ -17,14 +17,13 @@ This app has following features.
 * You can also find this app on google app store. 
 link -> https://play.google.com/store/apps/details?id=org.makkhay.makkhayDic
 ---
-![alt text](https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/Screen%20Shot%202017-05-18%20at%204.13.59%20PM.png)
----
-![alt text](https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/Screen%20Shot%202017-05-18%20at%204.12.26%20PM.png)
----
-![alt text](https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/Screen%20Shot%202017-05-18%20at%204.13.11%20PM.png)
+## Video Walkthrough 
 
----
-![alt text](https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/Screen%20Shot%202017-05-18%20at%204.13.36%20PM.png)
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/makkhay/Tip_Calculator/blob/master/Gifs1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LICECAP].
 
 ## License
 
