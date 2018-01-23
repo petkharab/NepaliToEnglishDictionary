@@ -25,6 +25,8 @@ Here's a walkthrough of my app:
 
 <img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/first.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
 
+* Demo Video 2 of 3
+<img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/second.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
 
 * Demo Video 3 of 3
 <img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/third.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
