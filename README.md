@@ -19,9 +19,9 @@ link -> https://play.google.com/store/apps/details?id=org.makkhay.makkhayDic
 ---
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of my app:
 
-<img src='https://github.com/makkhay/Tip_Calculator/blob/master/Gifs1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LICECAP].
 
