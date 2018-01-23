@@ -14,7 +14,8 @@ This app has following features.
 ---
 **How to run ?**
 * Clone the reposistory and run it using android studio
-* You can also find this app on google app store. Try searching with this keyword "makkhay" 
+* You can also find this app on google app store. 
+link -> https://play.google.com/store/apps/details?id=org.makkhay.makkhayDic
 ---
 ![alt text](https://github.com/makkhay/NepaliToEnglishDictionary/blob/master/Screen%20Shot%202017-05-18%20at%204.13.59%20PM.png)
 ---
