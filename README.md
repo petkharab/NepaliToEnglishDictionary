@@ -11,6 +11,8 @@ This app has following features.
 6) Copy words to clipboard for sharing
 7) Take Word Quiz 
 8) Learn new Words
+9) Chat support 
+10) Chuck norris jokes 
 ---
 **How to run ?**
 * Clone the reposistory and run it using android studio
